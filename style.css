@@ -1,0 +1,16 @@
+/*stile header*/
+
+header{
+background-color: lightgray;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+border-bottom-color: gold;
+}
+#profile-pic{
+    height: 250px;
+}
+.text-center{
+    text-align: center;
+
+}
+/*fine stile header*/
